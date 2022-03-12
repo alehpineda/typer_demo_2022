@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "typer_demo_2022"
-version = "0.1.0"
+version = "1.0.0"
 description = "Demo de typer para gulag"
 authors = ["Alex Pineda <alejandro.deathscythe@google.com>"]
 license = "GPL v3"
